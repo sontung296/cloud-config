@@ -5,3 +5,4 @@
 #     service-url: http://localhost:8761/eureka/
 #   instance:
 #     hostname: localhosts
+test.name=success
